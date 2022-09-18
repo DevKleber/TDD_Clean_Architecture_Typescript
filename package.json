@@ -4,6 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
+		"start": "node dist/main/api",
 		"build": "tsc"
 	},
 	"keywords": [],
