@@ -1,5 +1,11 @@
 {
   "compilerOptions": {
-	// "target": "ES3"
-  }
+	"outDir": "dist",
+	"rootDir": "src",
+	"skipLibCheck": true,
+	"sourceMap": true,
+	// "forceConsistentCasingInFileNames": true,
+	"target": "ES2022"
+  },
+  "include": ["src"]
 }
